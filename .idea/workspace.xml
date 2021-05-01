@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da82cc8c-53a9-4dd3-8b95-6ef25b90a1db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="MybatisMapper" />
+        <option value="Interface" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="1lXx68lmubE0kFC99QvJiluShAy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.65589154" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.pccc.myrule" />
+      <recent name="springcloud" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\backCode\cloud2020\cloud-consumer-feign-order80\src\main\resources" />
+      <recent name="D:\backCode\cloud2020\cloud-consumercs-order80\src\main\resources" />
+      <recent name="D:\backCode\cloud2020\cloud-provider-payment8006\src\main\resources" />
+      <recent name="D:\backCode\cloud2020\cloud-consumerzk-order80\src\main\resources" />
+      <recent name="D:\backCode\cloud2020\cloud-provider-payment8004\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+        <option value="JarApplication" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.GateWayMain9527">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="cloud-gateway9627" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-eureka-server7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pccc.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pccc.springcloud.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GateWayMain9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-gateway9627" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pccc.cloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pccc.cloud.GateWayMain9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HystrixDashboardMain9001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-hystrix-dashboard9001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pccc.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pccc.springcloud.HystrixDashboardMain9001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderCSMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumercs-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pccc.springcloud.OrderCSMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderHystrixMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-hystrix-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pccc.springcloud.OrderHystrixMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pccc.springcloud.OrderMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderZKMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-consumerzk-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pccc.springcloud.OrderZKMain80" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentConsulMain8006" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8006" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pccc.springcloud.PaymentConsulMain8006" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentHystrixMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-hystrix-payment8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.pccc.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pccc.springcloud.PaymentHystrixMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pccc.springcloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pccc.springcloud.PaymentMain8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-provider-payment8004" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.pccc.springcloud.PaymentMain8004" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Spring Boot.PaymentMain8004" />
+      <item itemvalue="Spring Boot.PaymentMain8001" />
+      <item itemvalue="Spring Boot.PaymentMain8002" />
+      <item itemvalue="Spring Boot.OrderZKMain80" />
+      <item itemvalue="Spring Boot.PaymentConsulMain8006" />
+      <item itemvalue="Spring Boot.OrderCSMain80" />
+      <item itemvalue="Spring Boot.OrderHystrixMain80" />
+      <item itemvalue="Spring Boot.OrderMain80" />
+      <item itemvalue="Spring Boot.EurekaMain7001" />
+      <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
+      <item itemvalue="Spring Boot.HystrixDashboardMain9001" />
+      <item itemvalue="Spring Boot.GateWayMain9527" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.GateWayMain9527" />
+        <item itemvalue="Spring Boot.EurekaMain7001" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Spring Boot.HystrixDashboardMain9001" />
+        <item itemvalue="Spring Boot.PaymentHystrixMain8001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da82cc8c-53a9-4dd3-8b95-6ef25b90a1db" name="Default Changelist" comment="" />
+      <created>1607757058421</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607757058421</updated>
+      <workItem from="1607757062019" duration="7586000" />
+      <workItem from="1607767160920" duration="2025000" />
+      <workItem from="1607769341404" duration="936000" />
+      <workItem from="1607839395670" duration="15807000" />
+      <workItem from="1607865440416" duration="248000" />
+      <workItem from="1607865777957" duration="1109000" />
+      <workItem from="1607906525370" duration="11862000" />
+      <workItem from="1607946274885" duration="3914000" />
+      <workItem from="1608012960066" duration="10060000" />
+      <workItem from="1608081042618" duration="4902000" />
+      <workItem from="1608098272079" duration="5616000" />
+      <workItem from="1608168103171" duration="1787000" />
+      <workItem from="1608253518412" duration="6893000" />
+      <workItem from="1608270128688" duration="1948000" />
+      <workItem from="1608274731395" duration="1385000" />
+      <workItem from="1608367504625" duration="2697000" />
+      <workItem from="1608429961749" duration="5223000" />
+      <workItem from="1608451586945" duration="2682000" />
+      <workItem from="1608512424686" duration="623000" />
+      <workItem from="1608616654821" duration="665000" />
+      <workItem from="1608621144110" duration="5519000" />
+      <workItem from="1608636289602" duration="2166000" />
+      <workItem from="1608685596099" duration="1974000" />
+      <workItem from="1609552109230" duration="258000" />
+      <workItem from="1614241861920" duration="2956000" />
+      <workItem from="1614489785887" duration="913000" />
+      <workItem from="1615614834467" duration="3705000" />
+      <workItem from="1615702396747" duration="3297000" />
+      <workItem from="1616223052799" duration="4213000" />
+      <workItem from="1616312577866" duration="2557000" />
+      <workItem from="1617260890834" duration="3366000" />
+      <workItem from="1618227289344" duration="1805000" />
+      <workItem from="1618302223559" duration="341000" />
+      <workItem from="1618302658419" duration="753000" />
+      <workItem from="1618399843335" duration="2390000" />
+      <workItem from="1618639880395" duration="4376000" />
+      <workItem from="1619851319467" duration="583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="446" y="51" width="605" height="588" key="#com.intellij.ide.util.MemberChooser" timestamp="1618641785561">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="446" y="51" width="605" height="588" key="#com.intellij.ide.util.MemberChooser/0.0.1280.689@0.0.1280.689" timestamp="1618641785561" />
+    <state width="734" height="375" key="GridCell.Tab.0.bottom" timestamp="1618734263161">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="734" height="375" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1618734263161" />
+    <state width="734" height="375" key="GridCell.Tab.0.center" timestamp="1618734263161">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="734" height="375" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1618734263161" />
+    <state width="734" height="375" key="GridCell.Tab.0.left" timestamp="1618734263161">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="734" height="375" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1618734263161" />
+    <state width="734" height="375" key="GridCell.Tab.0.right" timestamp="1618734263161">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="734" height="375" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1618734263161" />
+    <state width="734" height="375" key="GridCell.Tab.1.bottom" timestamp="1618734263162">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="734" height="375" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1618734263162" />
+    <state width="734" height="375" key="GridCell.Tab.1.center" timestamp="1618734263161">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="734" height="375" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1618734263161" />
+    <state width="734" height="375" key="GridCell.Tab.1.left" timestamp="1618734263161">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="734" height="375" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1618734263161" />
+    <state width="734" height="375" key="GridCell.Tab.1.right" timestamp="1618734263162">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="734" height="375" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1618734263162" />
+    <state x="-19" y="170" width="1280" height="517" key="new project wizard" timestamp="1618227398228">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="-19" y="170" width="1280" height="517" key="new project wizard/0.0.1280.689@0.0.1280.689" timestamp="1618227398228" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1616224389205">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1616224389205" />
+  </component>
+</project>
